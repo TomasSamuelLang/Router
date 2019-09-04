@@ -1,0 +1,2 @@
+# Router
+router with ospf
